@@ -1,0 +1,43 @@
+
+#cover1{
+	
+	position:absolute;
+	top:0px;
+	width:60%;
+	height:90%;
+	
+	background-color: red;
+   
+	
+}
+
+#mainp{
+	
+	position:absolute;
+	top:200px;
+	width:300px;
+	height:200px;
+	left:400px;
+	
+}
+
+#mainp2{
+	
+	position:absolute;
+	top:430px;
+	width:100px;
+	height:100px;
+	left:500px;
+	
+}
+
+#coverMusic{
+	
+	position:absolute;
+	top:10px;
+	width:700px;
+	height:800px;
+	left:240px;
+	background-color: lightgray;
+}
+
